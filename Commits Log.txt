@@ -1,0 +1,36 @@
+commit 433e9944009582842b7d203e2e84c065a53dccba
+Author: root <root@localhost.localdomain>
+Date:   Fri Jul 14 05:57:34 2017 -0400
+
+    Removed packages from files so that they will execute when compiled directly
+
+commit 61729798f7c3a7b070278692ebc9f3a945437782
+Author: Khalil Stemmler <metroidman12@gmail.com>
+Date:   Sat Dec 9 20:28:40 2017 -0500
+
+    Finished Java side
+
+commit cc3a5108b8afb37d9f8365d31e768e6ccba60439
+Merge: f7ad64a fe77637
+Author: Khalil Stemmler <metroidman12@gmail.com>
+Date:   Sat Dec 9 18:28:29 2017 -0500
+
+    Merge branch 'master' of https://github.com/stemmlerjs/os-design-assign-3
+
+commit f7ad64ae879eeeb37332386fb7121fbf0063086e
+Author: Khalil Stemmler <metroidman12@gmail.com>
+Date:   Sat Dec 9 18:28:21 2017 -0500
+
+    Added old project
+
+commit fe7763789b94e976cab298563cf583413a530135
+Author: Jared <jared.enaje@gmail.com>
+Date:   Sat Dec 9 18:26:40 2017 -0500
+
+    Uploaded Q1 Complete
+
+commit 4f865c189927330a570e63784f02b9bb452f07b5
+Author: Khalil Stemmler <metroidman12@gmail.com>
+Date:   Sat Dec 9 18:05:23 2017 -0500
+
+    Initial commit
